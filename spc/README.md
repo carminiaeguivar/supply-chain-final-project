@@ -2,7 +2,7 @@
 
 This is the task related to SPC with package `pyspc` for Python.
 
-## Steps
+## Steps for Linux
 
 - sudo apt-get install python3-tk
 - sudo apt-get install python-pip
