@@ -1,6 +1,6 @@
 # Statistical Process Control
 
-This is the task related to SPC with package `pyspc` for Python.
+This is the task related to SPC with package `PySpc` for Python.
 
 ## Steps
 
