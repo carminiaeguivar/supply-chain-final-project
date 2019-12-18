@@ -10,6 +10,7 @@ This is the task related to SPC with package `PySpc` for Python.
 - source env/bin/activate
 - python -m pip install --upgrade pip
 - pip install pyspc
+- python index.py
 
 Press `Ctrl + C` to close app, and run `deactivate` to leave virtual environment.
 
